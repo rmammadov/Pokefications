@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PoGofications</string>
+    <string name="select_adress">Select location</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="location_update">You have chosen to receive PoGofications for  </string>
+    <string name="notification_title">Agreement</string>
+    <string name="agreement_title">Agreement</string>
+    <string name="no_internet">"No internet connection!"</string>
+    <string name="location_not_selected_title">"Location not selected!"</string>
+    <string name="location_not_selected_description">"You must select location form the list to receive notifications."</string>
+    <string name="agreement_text">"I agree to receive notifications on Pokemon Go locations and affiliated products / locations"</string>
+    <array name="address">
+        <item>USA - New York, New York</item>
+        <item>USA - Los Angeles, California</item>
+        <item>USA - Chicago, Illinois</item>
+        <item>USA - Philadelphia, Pennsylvania</item>
+        <item>USA - Phoenix, Arizona</item>
+        <item>USA - San Diego, California</item>
+        <item>USA - Dallas, Texas</item>
+        <item>USA - Austin, Texas</item>
+        <item>USA - Jacksonville, Florida</item>
+        <item>USA - San Francisco, California</item>
+        <item>USA - Indianapolis, Indiana</item>
+        <item>USA - Columbus, Ohio</item>
+        <item>USA - Seattle, Washington</item>
+        <item>USA - Boston, Massachusetts</item>
+        <item>USA - Portland, Oregon</item>
+        <item>AUS - Melbourne, Victoria</item>
+        <item>AUS - Sydney, New South Wales</item>
+        <item>UK - London</item>
+    </array>
+</resources>

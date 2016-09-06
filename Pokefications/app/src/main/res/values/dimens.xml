@@ -1,0 +1,23 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_layout_height">250dp</dimen>
+
+    <!--Paddings-->
+    <dimen name="padding_xxxxl">56dp</dimen>
+    <dimen name="padding_xxxl">48dp</dimen>
+    <dimen name="padding_xxl">24dp</dimen>
+    <dimen name="padding_xxls">20dp</dimen>
+    <dimen name="padding_xl">16dp</dimen>
+    <dimen name="padding_l">12dp</dimen>
+    <dimen name="padding_m">8dp</dimen>
+    <dimen name="padding_s">4dp</dimen>
+    <dimen name="padding_xs">2dp</dimen>
+
+    <dimen name="splash_progressbar_width">48dp</dimen>
+    <dimen name="splash_progressbar_height">48dp</dimen>
+    <dimen name="margin_bottom">16dp</dimen>
+    <dimen name="splash_image_width">96dp</dimen>
+    <dimen name="splash_image_height">96dp</dimen>
+</resources>
